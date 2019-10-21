@@ -14,3 +14,12 @@ C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeM
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
