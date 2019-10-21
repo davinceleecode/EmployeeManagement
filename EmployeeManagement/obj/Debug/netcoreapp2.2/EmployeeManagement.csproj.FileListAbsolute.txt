@@ -24,3 +24,4 @@ C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeM
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
