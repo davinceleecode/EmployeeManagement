@@ -27,3 +27,4 @@ C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeM
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
