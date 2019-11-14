@@ -30,3 +30,4 @@ C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeM
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\libman.json
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs

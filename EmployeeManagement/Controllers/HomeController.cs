@@ -24,23 +24,32 @@ namespace EmployeeManagement.Controllers
             this.hostingEnvironment = hostingEnvironment;
         }
 
-        
+
         //[Route("~/Home")]
         //[Route("~/")]
-        public ViewResult Index() 
-        { 
-            var model =  _employeeRepository.GetAllEmployee();
+        public ViewResult Index()
+        {
+            var model = _employeeRepository.GetAllEmployee();
             return View(model);
         }
 
         //[Route("{id?}")]
         public ViewResult Details(int? id)
         {
+
+            Employee employee = _employeeRepository.GetEmployee(id.Value);
+            if (employee == null)
+            {
+                Response.StatusCode = 404;
+                return View("EmployeeNotFound", id.Value);
+            }
+
             HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
             {
-                Employee = _employeeRepository.GetEmployee(id??1),
+                Employee = employee,
                 PageTitle = "Employee Details"
             };
+
             return View(homeDetailsViewModel);
         }
 
@@ -76,15 +85,15 @@ namespace EmployeeManagement.Controllers
                 employee.Name = model.Name;
                 employee.Email = model.Email;
                 employee.Department = model.Department;
-                if(model.Photo != null)
+                if (model.Photo != null)
                 {
-                    if(model.ExistingPhotoPath != null)
+                    if (model.ExistingPhotoPath != null)
                     {
                         string filePath = Path.Combine(hostingEnvironment.WebRootPath, "images", model.ExistingPhotoPath);
                         System.IO.File.Delete(filePath);
                     }
                     employee.PhotoPath = ProcessUploadedFile(model);
-                }  
+                }
 
                 _employeeRepository.Update(employee);
                 return RedirectToAction("index", "Home");
@@ -104,7 +113,7 @@ namespace EmployeeManagement.Controllers
                 {
                     model.Photo.CopyTo(fileStream);
                 }
-                
+
             }
 
             return uniqueFileName;
@@ -133,6 +142,6 @@ namespace EmployeeManagement.Controllers
 
 
 
-      
+
     }
-} 
+}
