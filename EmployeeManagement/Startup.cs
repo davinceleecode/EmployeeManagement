@@ -43,8 +43,12 @@ namespace EmployeeManagement
                 #endregion
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseStatusCodePagesWithRedirects("/Error/{0}");
+            }
 
-             
+
             #region comment: UseDefaultFiles Middleware
             //custom default file middleware
             //DefaultFilesOptions defaultFilesOptions = new DefaultFilesOptions();
@@ -65,7 +69,7 @@ namespace EmployeeManagement
             //remove by using the usefileserver middleware
             //app.UseDefaultFiles(defaultFilesOptions);
             //app.UseStaticFiles();
-            #endregion 
+            #endregion
 
             app.UseStaticFiles();
             //app.UseMvcWithDefaultRoute();
