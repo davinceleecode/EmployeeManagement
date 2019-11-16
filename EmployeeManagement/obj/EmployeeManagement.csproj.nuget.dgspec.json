@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vincent.lee.c.flores\\Desktop\\LeeSourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\Lee\\Desktop\\SourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vincent.lee.c.flores\\Desktop\\LeeSourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\Lee\\Desktop\\SourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vincent.lee.c.flores\\Desktop\\LeeSourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Lee\\Desktop\\SourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\vincent.lee.c.flores\\Desktop\\LeeSourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
-        "packagesPath": "C:\\Users\\vincent.lee.c.flores\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vincent.lee.c.flores\\Desktop\\LeeSourceCode\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "projectPath": "C:\\Users\\Lee\\Desktop\\SourceCode\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lee\\Desktop\\SourceCode\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vincent.lee.c.flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
